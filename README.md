@@ -10,7 +10,10 @@ Click any `launch binder` badge on this page to use the demonstrations inside yo
 
 -----------
 
-This repository is set up to demonstrate use of [the Plotnine Python package](https://plotnine.org/) using the Prism themes inspired by [ggprism][1].
+SOURCE repo: [plotnine-prism](https://github.com/pwwang/plotnine-prism)  
+This repository is set up to demonstrate use of [the Plotnine Python package](https://plotnine.org/) using the Prism themes inspired by [ggprism][1].  
+You'll want to see the original [plotnine-prism](https://github.com/pwwang/plotnine-prism) by [pwwang](https://github.com/pwwang).  
+This repo just 'binderized' it to make the demonstrations easier to access.
 
 Plotnine is an implementation of a grammar of graphics in Python based on R's `ggplot2`.  
 The `ggprism` package provides various themes, palettes, and other useful functions to customise ggplots and give them the 'GraphPad Prism' look
