@@ -19,5 +19,10 @@ The `ggprism` package provides various themes, palettes, and other useful functi
 -------------------
 
 
+#### Related
+
+- In [my 3Dsurface_plot-binder](https://github.com/fomightez/3Dsurface_plot-binder) there's a demonstration of Plotnine to generate a 3D surface, see `Plotnine3d-surface-plots.ipynb` there.
+
+
 
 [1]: https://github.com/csdaw/ggprism/

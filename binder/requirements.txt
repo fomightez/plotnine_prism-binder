@@ -4,6 +4,8 @@ uv
 matplotlib
 plotnine
 plotnine-prism
+datar
+patchworklib
 biopython
 seaborn
 scipy
