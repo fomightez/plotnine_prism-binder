@@ -4,7 +4,7 @@ uv
 matplotlib
 plotnine
 plotnine-prism
-datar
+datar[pandas]
 patchworklib
 biopython
 seaborn
