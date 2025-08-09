@@ -1,0 +1,17 @@
+numpy
+pandas
+uv
+matplotlib
+plotnine
+plotnine-prism
+biopython
+seaborn
+scipy
+jupytext
+ipywidgets
+ipylab
+ipympl
+rich
+nbgitpuller
+
+
