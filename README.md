@@ -13,7 +13,7 @@ Click any `launch binder` badge on this page to use the demonstrations inside yo
 SOURCE repo: [plotnine-prism](https://github.com/pwwang/plotnine-prism)  
 This repository is set up to demonstrate use of [the Plotnine Python package](https://plotnine.org/) using the Prism themes inspired by [ggprism][1].  
 You'll want to see the original [plotnine-prism](https://github.com/pwwang/plotnine-prism) by [pwwang](https://github.com/pwwang).  
-Originally, this repo just 'binderized' pwwang's repo to make the demonstrations easier to access. **Now, I have added some examples myself**. (Or at least so far I didn't see an example among the originals like the one for Stacked Bar Chart I have added.)
+Originally, this repo just 'binderized' pwwang's repo to make the demonstrations easier to access. **Now, I have added some examples myself**. (Or at least so far I didn't see an example among the originals like the one for Stacked Bar Chart I have added.) Plus, I have expanded on the technical notebook about the colors to better explore the available colors.
 
 Plotnine is an implementation of a grammar of graphics in Python based on R's `ggplot2`.  
 The `ggprism` package provides various themes, palettes, and other useful functions to customise ggplots and give them the 'GraphPad Prism' look
