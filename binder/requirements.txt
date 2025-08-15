@@ -8,15 +8,10 @@ datar[pandas]
 patchworklib
 biopython
 seaborn
-statsmodels
-plotly
 scipy
-scikit-learn
 jupytext
 ipywidgets
 ipylab
 ipympl
 rich
 nbgitpuller
-
-
